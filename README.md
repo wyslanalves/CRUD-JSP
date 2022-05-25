@@ -10,7 +10,7 @@
 <hr> <br>
 
 <div align="center">
-    <img src="assets/img/img/secao-principal/drestranho.gif" alt="deluxebarber-gid-desktop" height="225">
+    <img src="src/main/webapp/assets/images/jsp.gif" alt="deluxebarber-gid-desktop" height="225">
     <img src="src/main/webapp/assets/images/codigo.gif" alt="deluxebarber-gid-desktop" height="225">
 </div>
 <br>
