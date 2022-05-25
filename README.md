@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <br>
-    <h1 align="center">Leading Page Doutor Estranho</h1>
+    <h1 align="center">CRUD Java - JSP</h1>
 <br>
 </h1>
 <hr>
