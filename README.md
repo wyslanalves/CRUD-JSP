@@ -6,7 +6,7 @@
 <br>
 </h1>
 <hr>
-<p align="center">Foi criado um CRUD - JSP com Cadastro, Impressão de Relatório, Gráfico com auxilio do mentor Alex -  <strong>JDtreinamento.</strong></p>
+<p align="center">Foi criado um CRUD - JSP com Cadastro, Impressão de Relatório e Gráfico com auxilio do mentor Alex -  <strong>JDtreinamento.</strong></p>
 <hr> <br>
 
 <div align="center">
@@ -30,10 +30,7 @@
 
 O projeto foi desenvolvido com as seguintes Tecnologias:
 
-- <img align="center"  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-- <img align="center"  alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-- <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-
+- HTML5
 ---
 
 <p>Feito por Wyslan da Silva Alves, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/wyslanalves/">Wyslan Alves</a></p>
