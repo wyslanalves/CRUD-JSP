@@ -6,7 +6,7 @@
 <br>
 </h1>
 <hr>
-<p align="center">Foi criado um CRUD - JSP com Cadastro e Impressão de Relatorio, com auxilio do mentor Alex -  <strong>JDtreinamento.</strong></p>
+<p align="center">Foi criado um CRUD - JSP com Cadastro, Impressão de Relatório, Gráfico com auxilio do mentor Alex -  <strong>JDtreinamento.</strong></p>
 <hr> <br>
 
 <div align="center">
