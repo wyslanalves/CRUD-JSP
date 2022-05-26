@@ -37,6 +37,8 @@ O projeto foi desenvolvido com as seguintes Tecnologias:
 - JDK 11
 - JASPER - BIBLIOTECA DE RELATÒRIO
 - JQUERY
+- POSTGRESQL 9.5
+- JSP
 ---
 
 <p>Feito por Wyslan da Silva Alves, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/wyslanalves/">Wyslan Alves</a></p>
