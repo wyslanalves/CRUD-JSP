@@ -6,7 +6,7 @@
 <br>
 </h1>
 <hr>
-<p align="center">Foi criado uma página, com um tema de Doutor Estranho, totalmente responsiva, com auxilio dos mentores da <strong>WhileTrue.</strong></p>
+<p align="center">Foi criado um CRUD - JSP com Cadastro e Impressão de Relatorio, com auxilio do mentor Alex -  <strong>JDtreinamento.</strong></p>
 <hr> <br>
 
 <div align="center">
