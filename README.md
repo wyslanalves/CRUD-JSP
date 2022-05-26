@@ -31,6 +31,12 @@
 O projeto foi desenvolvido com as seguintes Tecnologias:
 
 - HTML5
+- CSS3
+- BOOTSTRAP 4
+- APACHE TOMCAT 9 
+- JDK 11
+- JASPER - BIBLIOTECA DE RELATÒRIO
+- JQUERY
 ---
 
 <p>Feito por Wyslan da Silva Alves, entre em contato pelo Linkedin --> <a href="https://www.linkedin.com/in/wyslanalves/">Wyslan Alves</a></p>
