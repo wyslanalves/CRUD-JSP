@@ -20,7 +20,7 @@
 
 # Projeto Hospedado
 
-<p>O projeto esta hospedado no Link abaixo:</p>
+<p>O projeto está hospedado no Link abaixo:</p>
 <!--<a href="https://matheus-bezerra.github.io/deluxeBarberShop/">https://matheus-bezerra.github.io/deluxeBarberShop/></a>-->Indisponível
 
 ---
